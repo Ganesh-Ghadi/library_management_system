@@ -1,0 +1,33 @@
+﻿
+/*footer*/
+.footerlinks{
+    color:white;
+    text-decoration: none  !important;
+}
+
+.footerlinks:hover{
+    color:red;
+}
+
+#footer1 {
+    background-color: #ab00ff;
+}
+
+#footName {
+    background-color: #8300c4;
+}
+
+.fName{
+    color:white !important;
+    text-decoration:none;
+}
+
+.fName:hover{
+     color:red !important;
+}
+/*footer ends*/
+
+
+.navbar-custom{
+    color: #ab00ff  !important;
+}
